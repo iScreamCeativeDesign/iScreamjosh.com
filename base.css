@@ -35,7 +35,7 @@ a {
 
   &:focus {
     outline: none;
-    background: lightgrey;
+    background: black;
 
     &:not(:focus-visible) {
       background: transparent;

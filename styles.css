@@ -22,7 +22,7 @@ body {
   position: relative;
   width: 100vw;
   height: 100vh;
-  background: var(--bg);
+  background: #0b0b0b;
   color: var(--fg);
   overflow: hidden;
   perspective: var(--perspective);
@@ -38,7 +38,7 @@ body {
   z-index: 100;
   display: grid;
   place-items: center;
-  background: #ffffff;
+  background: #000000;
   transition: opacity 0.2s var(--ease), visibility 0.2s linear;
 }
 .loader--hide {
