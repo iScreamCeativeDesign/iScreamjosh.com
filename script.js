@@ -18,7 +18,7 @@ const IMAGES = [
   './img/img07.webp',
   './img/img08.webp',
   './img/img09.webp',
-  './img/img10.webp',
+  '<iframe style="border: 0; width: 450px; height: 542px;" src="https://bandcamp.com/EmbeddedPlayer/track=4159791488/size=large/bgcol=333333/linkcol=fe7eaf/tracklist=false/transparent=true/" seamless><a href="https://iscreamjoshua.bandcamp.com/track/the-divine-mirror">The Divine Mirror by iScreamJosh</a></iframe>',
 ];
 
 // Physics constants
